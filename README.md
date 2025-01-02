@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🎮 minijocs.cat - En Desenvolupament
 
-<!--
-**IsMeduza/IsMeduza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚧 Estat del Projecte
 
-Here are some ideas to get you started:
+Actualment estic treballant en minijocs.cat, una plataforma de minijocs en català dissenyada per oferir entreteniment i diversió a usuaris de totes les edats. El projecte està en fase de desenvolupament actiu i el codi font es manté privat temporalment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Visió
+
+L'objectiu és crear una experiència única de joc en català que:
+- Ofereixi entreteniment educatiu i divertit
+- Fomenti la comunitat de jugadors catalans
+- Mantingui un entorn segur i familiar
+- Promogui el desenvolupament de minijocs en català
+
+## 🛠️ Tecnologies
+
+El projecte utilitza un stack modern:
+- React 18 amb TypeScript
+- Vite & TailwindCSS
+- Firebase/Firestore
+- Netlify Functions
+- Stripe per pagaments
+
+## 👥 Col·laboració
+
+Tot i que el codi és privat actualment, estic obert a col·laboracions! Si t'interessa participar:
+
+- 📧 Contacta'm a: minijocs.cat@gmail.com
+- 🐦 Segueix-me a Twitter: [@minijocscat](https://twitter.com/minijocscat)
+
+## 🔜 Properes Passes
+
+- Llançament de la versió beta
+- Implementació de nous minijocs
+- Sistema de tornejos
+- Mode multijugador
+
+---
+
+💡 El projecte s'obrirà al públic en el futur. Mentrestant, si vols contribuir o saber-ne més, no dubtis en contactar-me!
