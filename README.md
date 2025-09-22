@@ -1,40 +1,31 @@
-# 🎮 minijocs.cat - En Desenvolupament
+# ¡Alerta! Has encontrado el perfil de IsMeduza
 
-## 🚧 Estat del Projecte
-
-Actualment estic treballant en minijocs.cat, una plataforma de minijocs en català dissenyada per oferir entreteniment i diversió a usuaris de totes les edats. El projecte està en fase de desenvolupament actiu i el codi font es manté privat temporalment.
-
-## 🎯 Visió
-
-L'objectiu és crear una experiència única de joc en català que:
-- Ofereixi entreteniment educatiu i divertit
-- Fomenti la comunitat de jugadors catalans
-- Mantingui un entorn segur i familiar
-- Promogui el desenvolupament de minijocs en català
-
-## 🛠️ Tecnologies
-
-El projecte utilitza un stack modern:
-- React 18 amb TypeScript
-- Vite & TailwindCSS
-- Firebase/Firestore
-- Netlify Functions
-- Stripe per pagaments
-
-## 👥 Col·laboració
-
-Tot i que el codi és privat actualment, estic obert a col·laboracions! Si t'interessa participar:
-
-- 📧 Contacta'm a: minijocs.cat@gmail.com
-- 🐦 Segueix-me a Twitter: [@minijocscat](https://twitter.com/minijocscat)
-
-## 🔜 Properes Passes
-
-- Llançament de la versió beta
-- Implementació de nous minijocs
-- Sistema de tornejos
-- Mode multijugador
+<p align="center">
+  <i>"Programador. A veces funciona, a veces no. Como mi código."</i>
+</p>
 
 ---
 
-💡 El projecte s'obrirà al públic en el futur. Mentrestant, si vols contribuir o saber-ne més, no dubtis en contactar-me!
+### ¿Quién soy?
+
+¡Buena pregunta! Soy un desarrollador al que le gusta crear cosas. Principalmente, estoy enfocado en mi proyecto **minijocs.cat**, una plataforma de minijuegos en catalán. La idea es que sea divertida para los usuarios; para mí, es una aventura épica de divs que no se centran y promesas de JavaScript que no siempre se cumplen.
+
+### Lo que hago en mi día a día:
+- Escribir código que, con suerte, funcionará.
+- Hablarle a mi monitor como si fuera un terapeuta.
+- Arreglar un bug y crear dos nuevos. Es el ciclo de la vida.
+- Pensar en ideas millonarias que nunca empezaré (excepto minijocs.cat, esa sí).
+
+### Tecnologías con las que peleo a diario:
+- `React` y `TypeScript`: Porque me gusta que mi código me grite antes de que lo haga el navegador.
+- `TailwindCSS`: Para que las cosas se vean bonitas sin llorar con CSS.
+- `Firebase`: Magia negra para que todo se guarde en la nube.
+
+### ¿Hablamos?
+- 📧 Envíame un correo a **Error 404** (contesto más rápido si incluyes un meme).
+- 🐦 Sígueme en Twitter en **[@minijocscat](https://twitter.com/minijocscat)**, aunque probablemente esté demasiado ocupado buscando un punto y coma perdido.
+
+---
+<p align="center">
+  "Keep calm and code on... y si no funciona, reinicia el ordenador."
+</p>
