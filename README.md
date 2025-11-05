@@ -1,1 +1,1 @@
-modul.cat
+https://modul.cat/
