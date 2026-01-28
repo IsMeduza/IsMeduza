@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="400px">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Benvinguts!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
 ## 🚀 Sobre Mi
 Sóc un desenvolupador apassionat per crear experiències digitals **premium** i **fluides**. Actualment centrat en el desenvolupament mobile amb Flutter i la integració d'IA on-device.
 
@@ -15,20 +19,28 @@ Sóc un desenvolupador apassionat per crear experiències digitals **premium** i
 
 ---
 
-## 🏗️ Projecte Actual: **EntornoX**
+## 🏗️ Projecte Actual: **EntornoX** (2025-26)
 > *"Analitza el teu entorn, no la teva vida."*
 
-**EntornoX** és una aplicació d'anàlisi ambiental avançada que utilitza IA on-device per entendre l'entorn de l'usuari sense comprometre la privacitat.
-
-- **Stack**: Flutter, Machine Learning (TFLite/ML Kit), Sqflite.
-- **UI/UX Premium**: 
-  - ✨ Animacions fluides d'entrada a cada pantalla.
-  - 🎨 Gradients de malla (**Mesh Gradients**) dinàmics.
-  - 🫧 Estil **Glassmorphism** i consistència iOS.
-  - ⚡ Micro-interaccions amb **Rive** i **Lottie**.
-- **IA**: Reconeixement d'activitat i anàlisi de dades sensorials en temps real.
+App d'anàlisi ambiental avançada amb **IA on-device** (Flutter + ML Kit) que prioritza la privacitat absoluta.
+- **UI/UX**: Disseny premium amb **Glassmorphism**, gradients dinàmics i animacions fluides.
+- **IA Local**: Reconeixement d'activitat i anàlisi de sensors en temps real sense connexió.
 
 ---
+
+## 🕹️ Projecte Anterior: **[minijocs.cat](https://minijocscat.netlify.app)**
+> *"Entreteniment en català."*
+
+Plataforma de minijocs per a totes les edats, optimitzada com a **PWA** per a una experiència nativa al navegador.
+- **Stack**: React 18, TypeScript, TailwindCSS i Firebase.
+- **Estatus**: 🛑 **Aturat** (2024-25) | Link: [minijocscat.netlify.app](https://minijocscat.netlify.app)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsMeduza&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsMeduza&theme=radical" alt="Streak" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
