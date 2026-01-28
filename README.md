@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding">
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F6&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolupador+Flutter+Premium;Integraci%C3%B3+d'IA+On-Device;Fan+del+Bar%C3%A7a+%F0%9F%94%B5%F0%9F%94%B4;Visca+Catalunya!+%F0%9F%9A%A9" alt="Typing SVG" />
   </a>
@@ -59,10 +55,6 @@ Plataforma de minijocs per a totes les edats, optimitzada com a **PWA** per a un
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
   <img src="https://img.shields.io/badge/De-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="De Catalunya" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsMeduza&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
