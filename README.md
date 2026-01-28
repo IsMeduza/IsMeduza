@@ -30,30 +30,9 @@ Sóc un desenvolupador apassionat per crear experiències digitals **premium** i
 
 ---
 
-
-## 🛠️ El meu Stack Tecnològic
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-</p>
-
----
-
-## 📊 Estadístiques de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsMeduza&show_icons=true&theme=tokyonight&count_private=true" alt="IsMeduza's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsMeduza&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visca-el%20Barça-red?style=for-the-badge&labelColor=blue" alt="Visca el Barça" />
-  <img src="https://img.shields.io/badge/Fet-a%20Catalunya-yellow?style=for-the-badge&labelColor=red" alt="Fet a Catalunya" />
+  <img src="https://img.shields.io/badge/Visca%20Barça-red?style=for-the-badge&labelColor=blue" alt="Visca Barça" />
+  <img src="https://img.shields.io/badge/De%20Catalunya-yellow?style=for-the-badge&labelColor=red" alt="De Catalunya" />
 </p>
 
 <p align="center">
