@@ -1,10 +1,6 @@
 # 👋 Hola! Sóc IsMeduza / MaxSM
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=927DDE,927DDE&height=220&section=header&text=Benvinguts!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Flutter%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Culer&descAlignY=60&descAlign=50" width="100%"/>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F6&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolupador+Flutter+Premium;Integraci%C3%B3+d'IA+On-Device;Fan+del+Bar%C3%A7a+%F0%9F%94%B5%F0%9F%94%B4;Visca+Catalunya!+%F0%9F%9A%A9" alt="Typing SVG" />
   </a>
