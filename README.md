@@ -45,7 +45,7 @@ Plataforma de minijocs per a totes les edats, optimitzada com a **PWA** per a un
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
-  <img src="https://img.shields.io/badge/De-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="De Catalunya" />
+  <img src="https://img.shields.io/badge/Visca-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="Visca Catalunya" />
 </p>
 
 <p align="center">
