@@ -1,11 +1,5 @@
-# 👋 Hola! Sóc IsMeduza / MaxSM
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="400px">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Benvinguts!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋 Hola! Sóc IsMeduza / MaxSM&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 ## 🚀 Sobre Mi
