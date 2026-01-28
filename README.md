@@ -1,7 +1,7 @@
 # 👋 Hola! Sóc IsMeduza / MaxSM
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=927DDE,E0AAFF&height=220&section=header&text=Benvinguts!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Flutter%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Culer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=927DDE,7564B1&height=220&section=header&text=Benvinguts!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Flutter%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Culer&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
