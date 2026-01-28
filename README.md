@@ -31,8 +31,8 @@ Sóc un desenvolupador apassionat per crear experiències digitals **premium** i
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visca%20Barça-red?style=for-the-badge&labelColor=blue" alt="Visca Barça" />
-  <img src="https://img.shields.io/badge/De%20Catalunya-yellow?style=for-the-badge&labelColor=red" alt="De Catalunya" />
+  <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
+  <img src="https://img.shields.io/badge/De-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="De Catalunya" />
 </p>
 
 <p align="center">
