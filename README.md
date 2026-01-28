@@ -19,7 +19,7 @@ Sóc un desenvolupador apassionat per crear experiències digitals **premium** i
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,firebase,tailwind,git,vscode,androidstudio,html,css,javascript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,firebase,tailwind,git,vscode,androidstudio&theme=dark" />
   </a>
 </p>
 
