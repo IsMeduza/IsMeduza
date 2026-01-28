@@ -48,11 +48,6 @@ Plataforma de minijocs per a totes les edats, optimitzada com a **PWA** per a un
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsMeduza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsMeduza&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Streak" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
   <img src="https://img.shields.io/badge/De-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="De Catalunya" />
 </p>
