@@ -25,7 +25,7 @@ Sóc un desenvolupador apassionat per crear experiències digitals **premium** i
 
 ---
 
-## 🏗️ Projecte Actual: **EntornoX** (2025-26)
+## 🏗️ Projecte Actual: **EntornoX**
 > *"Analitza el teu entorn, no la teva vida."*
 
 App d'anàlisi ambiental avançada amb **IA on-device** (Flutter + ML Kit) que prioritza la privacitat absoluta.
