@@ -23,26 +23,6 @@ Sóc un desenvolupador apassionat per crear experiències digitals **premium** i
   </a>
 </p>
 
----
-
-## 🏗️ Projecte Actual: **EntornoX**
-> *"Analitza el teu entorn, no la teva vida."*
-
-App d'anàlisi ambiental avançada amb **IA on-device** (Flutter + ML Kit) que prioritza la privacitat absoluta.
-- **UI/UX**: Disseny premium amb **Glassmorphism**, gradients dinàmics i animacions fluides.
-- **IA Local**: Reconeixement d'activitat i anàlisi de sensors en temps real sense connexió.
-
----
-
-## 🕹️ Projecte Anterior: **[minijocs.cat](https://minijocscat.netlify.app)**
-> *"Entreteniment en català."*
-
-Plataforma de minijocs per a totes les edats, optimitzada com a **PWA** per a una experiència nativa al navegador.
-- **Stack**: React 18, TypeScript, TailwindCSS i Firebase.
-- **Estatus**: 🛑 **Aturat** (2024-25) | Link: [minijocscat.netlify.app](https://minijocscat.netlify.app)
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
   <img src="https://img.shields.io/badge/Visca-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="Visca Catalunya" />
