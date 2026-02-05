@@ -1,4 +1,4 @@
-# 👋 Hola! Sóc IsMeduza / MaxSM
+# 👋 Hola! Sóc MaxSM / IsMeduza
 
 <p align="center">
   <a href="https://git.io/typing-svg">
