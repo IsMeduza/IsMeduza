@@ -10,16 +10,16 @@
 
 ## 🚀 Sobre Mi / Sobre Mí
 
-**CAT:** Sóc un desenvolupador apassionat per crear experiències digitals **premium** i **fluides**. Actualment centrat en el desenvolupament mobile amb Flutter i la integració d'IA on-device.
+**🚩** Sóc un desenvolupador apassionat per crear experiències digitals **premium** i **fluides**. Actualment centrat en el desenvolupament mobile amb Flutter i la integració d'IA on-device.
 
-**ESP:** Soy un desarrollador apasionado por crear experiencias digitales **premium** y **fluidas**. Actualmente centrado en el desarrollo mobile con Flutter y la integración de IA on-device.
+**🇪🇸** Soy un desarrollador apasionado por crear experiencias digitales **premium** y **fluidas**. Actualmente centrado en el desarrollo mobile con Flutter y la integración de IA on-device.
 
 * 🌍 De **Catalunya** 🚩
 * ⚽ Fan incondicional del **Barça** 💙❤️
-* 🛠️ **CAT:** Creant apps amb un disseny exquisit i animacions que enamoren.
-* 🛠️ **ESP:** Creando apps con un diseño exquisito y animaciones que enamoran.
-* 🧪 **CAT:** Experimentant amb IA local i anàlisi de dades en temps real.
-* 🧪 **ESP:** Experimentando con IA local y análisis de datos en tiempo real.
+* 🛠️ **🚩** Creant apps amb un disseny exquisit i animacions que enamoren.
+* 🛠️ **🇪🇸** Creando apps con un diseño exquisito y animaciones que enamoran.
+* 🧪 **🚩** Experimentant amb IA local i anàlisi de dades en temps real.
+* 🧪 **🇪🇸** Experimentando con IA local y análisis de datos en tiempo real.
 
 ---
 
