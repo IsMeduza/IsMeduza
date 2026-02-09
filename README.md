@@ -1,25 +1,23 @@
-# 👋 Hola! Sóc/Soy MaxSM / IsMeduza
+# 👋 Hola! Soy MaxSM / IsMeduza 🐱
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F6&background=00000000&center=true&vCenter=true&width=435&lines=Desenvolupador+Flutter+Premium;Desarrollador+Flutter+Premium;Integraci%C3%B3+d'IA+On-Device;Integraci%C3%B3n+de+IA+On-Device;Fan+del+Bar%C3%A7a+%F0%9F%94%B5%F0%9F%94%B4;Visca+Catalunya!+%F0%9F%9A%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3595F6&background=00000000&center=true&vCenter=true&width=435&lines=Desarrollador+Flutter+Premium;Integración+de+IA+On-Device;Fan+del+Barça+💙❤️;Amante+de+los+gatos+🐱" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre Mi / Sobre Mí
+## 🚀 Sobre Mí
 
-**🚩** Sóc un desenvolupador apassionat per crear experiències digitals **premium** i **fluides**. Actualment centrat en el desenvolupament mobile amb Flutter i la integració d'IA on-device.
+Soy un desarrollador apasionado por crear experiencias digitales **premium** y **fluidas**.  
+Actualmente centrado en el desarrollo mobile con **Flutter** y la **integración de IA on-device**.
 
-**🇪🇸** Soy un desarrollador apasionado por crear experiencias digitales **premium** y **fluidas**. Actualmente centrado en el desarrollo mobile con Flutter y la integración de IA on-device.
-
-* 🌍 De **Catalunya** 🚩
+* 🌍 De **Catalunya**
 * ⚽ Fan incondicional del **Barça** 💙❤️
-* 🛠️ **🚩** Creant apps amb un disseny exquisit i animacions que enamoren.
-* 🛠️ **🇪🇸** Creando apps con un diseño exquisito y animaciones que enamoran.
-* 🧪 **🚩** Experimentant amb IA local i anàlisi de dades en temps real.
-* 🧪 **🇪🇸** Experimentando con IA local y análisis de datos en tiempo real.
+* 🐱 Amante de los **gatos**
+* 🛠️ Creando apps con un diseño exquisito y animaciones que enamoran
+* 🧪 Experimentando con IA local y análisis de datos en tiempo real
 
 ---
 
@@ -32,7 +30,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
-  <img src="https://img.shields.io/badge/Visca-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="Visca Catalunya" />
+  <img src="https://img.shields.io/badge/Gatos-🐱-6f42c1?style=for-the-badge" alt="Gatos" />
 </p>
 
 <p align="center">
