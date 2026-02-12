@@ -30,7 +30,7 @@ Actualmente centrado en el desarrollo mobile con **Flutter** y la **integración
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
-  <img src="https://img.shields.io/badge/Gatos-🐱-6f42c1?style=for-the-badge" alt="Gatos" />
+  <img src="https://img.shields.io/badge/Visca-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="Visca Catalunya" />
 </p>
 
 <p align="center">
