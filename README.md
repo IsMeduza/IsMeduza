@@ -21,13 +21,6 @@ Actualmente centrado en el desarrollo mobile con **Flutter** y la **integración
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,firebase,tailwind,git,vscode,androidstudio&theme=dark" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Visca-Barça-a50044?style=for-the-badge&labelColor=004d98" alt="Visca Barça" />
   <img src="https://img.shields.io/badge/Visca-Catalunya-ffd700?style=for-the-badge&labelColor=ce1126" alt="Visca Catalunya" />
