@@ -41,7 +41,8 @@ try {
       "Recent Work": "Trabajos recientes",
       "Projects": "Proyectos",
       "Services": "Servicios",
-      "Tools": "Herramientas"
+      "Tools": "Herramientas",
+      "Validating...": "Validando..."
     };
 
     var D_ca = {
@@ -138,7 +139,11 @@ try {
       "UX/UI Design": "Disseny UX/UI",
       "Web Development & Frontend": "Desenvolupament web i frontend",
       "UX/UI & Digital Design": "Disseny UX/UI i digital",
-      "Girona, Spain": "Girona, Catalunya"
+      "Girona, Spain": "Girona, Catalunya",
+      "Validating...": "Validant...",
+      "Validando...": "Validant...",
+      "Cataluña": "Catalunya",
+      "España": "Espanya"
     };
 
     var D = lang === "ca" ? D_ca : D_es;
