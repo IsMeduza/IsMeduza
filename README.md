@@ -2,7 +2,7 @@
   <img src="avatar-principal.png" width="130" style="border-radius: 50%; box-shadow: 0 10px 25px rgba(0,0,0,0.15);" alt="Max S.M.">
 </p>
 
-<h1 align="center">👋 Hola, soy Max S.M. (IsMeduza)</h1>
+<h1 align="center">Hola, soy Max S.M. (IsMeduza)</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
