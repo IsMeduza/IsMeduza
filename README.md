@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://max.webnou.com"><img src="https://img.shields.io/badge/Portafolio-max.webnou.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"></a>
   <a href="https://linkedin.com/in/esmaxsm"><img src="https://img.shields.io/badge/LinkedIn-esmaxsm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maxsanchezmasso@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
