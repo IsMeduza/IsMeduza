@@ -14,3 +14,4 @@ theme.js
 lang.js
 .DS_Store
 Thumbs.db
+cloudflare-site/.local-preview*.log
