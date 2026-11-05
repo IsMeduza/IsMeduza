@@ -1,17 +1,2 @@
-.wrangler/
-cloudflare-site/
-scratch/
-AGENTS.md
-fonts/
-_app/
-_vercel/
-icons/
-images/
-thumbnails/
-docs/
-custom.css
-theme.js
-lang.js
 .DS_Store
 Thumbs.db
-cloudflare-site/.local-preview*.log
